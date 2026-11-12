@@ -1,1 +1,4 @@
-print("Hola, este archivo etsa conectado con git hub")
+print("putita")
+print("una")
+print("es")
+print("Eduardo")
