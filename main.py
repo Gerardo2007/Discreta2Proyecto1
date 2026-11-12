@@ -6,4 +6,5 @@ print("JUUNTOS")
 print("TODO")
 print("PODEMOS")
 print("RESOLVER")
-
+print("euduardito es una desesperada")
+print("esta en la cima de mi p****")
